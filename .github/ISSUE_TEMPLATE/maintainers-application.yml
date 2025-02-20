@@ -37,4 +37,4 @@ body:
 name: Maintainership Form
 description: Application for applying as maintainer
 title: New maintainer
-assignees: []
+assignees: [elpaablo, mnasibzade]

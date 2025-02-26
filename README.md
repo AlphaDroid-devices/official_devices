@@ -8,7 +8,6 @@ You must fulfill the following requirements:
 - [Device Requirements](https://github.com/AlphaDroid-devices/official_devices/blob/main/docs/devicereq.md)
 
 ## Important
-- Please familiarize yourself with the Code of Conduct before submitting an Application!
 - Visit our Device Requirements documentation page and verify if your builds qualify for an official release.
   
 You must be aware that just fulfilling these requirements doesn't necessarily mean that you're going to be accepted. We will also consider some other points if necessary (like experience or how your behavior is towards other people)

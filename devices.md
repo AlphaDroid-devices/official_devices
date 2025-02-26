@@ -47,4 +47,5 @@
 - **Redmi Note 10 5G/10T/11SE/M3 Pro (camellia/camellian)**
 - **Redmi Note 10 Pro (sweet)** 
 - **Redmi Note 12 (topaz/tapas)**
+- **Redmi Note 12 Pro 5G/Pro+ 5G (ruby)**
 - **Redmi Note 13 Pro 5G | Poco X6 5G (garnet)**

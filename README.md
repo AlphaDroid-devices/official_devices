@@ -14,6 +14,6 @@ You must be aware that just fulfilling these requirements doesn't necessarily me
 
 
 ## Please note that issues created in this repository will be considered as applications for the position of official maintainer.
-**Note:** If the issue created dosen't follow the maintainers_form template, it will be automatically rejected.
+**Note:** If the issue created doesn't follow the maintainers_form template, it will be automatically rejected.
 
-If you agree with everything, then please [fill this form](https://github.com/AlphaDroid-devices/official_devices/issues/new/choose)
+If you agree with everything, then please [fill in this form](https://github.com/AlphaDroid-devices/official_devices/issues/new/choose).

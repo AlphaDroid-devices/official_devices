@@ -30,7 +30,7 @@
 ## Xiaomi
 - **Mi 9T (davinci)**
 - **K20/Mi 9T Pro (raphael)**
-- **Mi 9T SE (grus)**
+- **Mi 9 SE (grus)**
 - **Mi 10T/Pro (apollo)**
 - **Mi 11 (venus)**
 - **Mi 11T Pro (vili)**

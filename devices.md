@@ -2,6 +2,7 @@
 
 ---
 **Note**
+
 - This list is only for AlphaDroid 2.x (Android 14) and AlphaDroid 3.x (Android 15) devices.
 
 ---
@@ -18,6 +19,7 @@
 - **Pixel 9 Pro XL (komodo)**
 
 ## OnePlus
+- **OnePlus 8 Series (instanoodle, instanoodlep, kebab)**
 - **OnePlus 9 Pro (lemonadep)**
 - **OnePlus 12R | Ace 3 (aston)**
 

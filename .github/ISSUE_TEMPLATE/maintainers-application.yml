@@ -34,6 +34,11 @@ body:
   type: input
   validations:
     required: true
+- attributes:
+    label: Sourceforge username
+  type: input
+  validations:
+    required: true
 name: Maintainership Form
 description: Application for applying as maintainer
 title: New maintainer

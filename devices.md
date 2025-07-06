@@ -21,6 +21,7 @@
 ## OnePlus
 - **OnePlus 8 Series (instanoodle, instanoodlep, kebab)**
 - **OnePlus 9 Pro (lemonadep)**
+- **OnePlus 11 5G (salami)**
 - **OnePlus 12R | Ace 3 (aston)**
 
 ## Nothing

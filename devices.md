@@ -37,6 +37,7 @@
 - **Mi 10T/Pro (apollo)**
 - **Mi 11 (venus)**
 - **Mi 11T Pro (vili)**
+- **Xiaomi 13 Ultra (ishtar)**
 - **Poco F5 (marble)** 
 - **Poco F6 (poridot)** 
 - **Poco X3 NFC (surya)** 
